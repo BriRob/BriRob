@@ -1,6 +1,6 @@
 ## Briana Robinson
 
-Full-stack software engineer that loves music
+Full-stack software engineer that loves music 💻🎶
 
 ## Contact Me
 Email: briana.robinson.swe@gmail.com
