@@ -4,7 +4,7 @@ Full-stack software developer that loves music 💻🎶
 
 ## Contact Me
 * Email: briana.robinson.swe@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/briana-robinson-083355104/){target="_blank"}
+* [LinkedIn](https://www.linkedin.com/in/briana-robinson-083355104/)
 
 ## Github Stats
 [![Briana's GitHub stats](https://github-readme-stats.vercel.app/api?username=BriRob&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/BriRob/github-readme-stats)
