@@ -48,8 +48,7 @@ Full-stack software developer that loves music 💻🎶
 
 ### [MeloMania](https://melomaniamusic.herokuapp.com)
 
-![melomania-splash-page](https://user-images.githubusercontent.com/95938897/175160594-17184d85-4ce9-4ac3-9bc7-e348ec97f10b.png)
-
+![melomania-splash-page](https://user-images.githubusercontent.com/95938897/180673034-24af28de-6319-41cd-840a-4462bffb993f.png)
 
 
 ### [Oraql](https://oraql.herokuapp.com/)
