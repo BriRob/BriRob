@@ -39,8 +39,7 @@ Full-stack software developer that loves music 💻🎶
 ## Check out my past projects!
 ### [Waist Deep Beads](https://waist-deep-beads.herokuapp.com/)
 
-![wdb_homepage](https://user-images.githubusercontent.com/95938897/175160911-1e29b4b0-a202-45cf-aed0-bb13305e69a0.png)
-
+![wdb_homepage](https://user-images.githubusercontent.com/95938897/180673854-fd27a18b-1abc-40d2-8cbc-1da580cd294e.png)
 
 ### [Pixtagram](https://pixtagramapp.herokuapp.com/)
 ![Pixtagram_homepage](https://user-images.githubusercontent.com/95938897/175160809-6d9c706b-128a-4a04-925a-95539615184b.png)
